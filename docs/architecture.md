@@ -59,3 +59,7 @@ No implementation role may begin until an approved Implementation Plan exists.
 ## Law #6
 
 Every implementation task must produce a complete production-ready component. Partial implementations are not accepted.
+
+## Law #7
+
+No Production Component may be merged until it has passed the Review Pipeline.
