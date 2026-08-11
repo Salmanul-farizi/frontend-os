@@ -41,3 +41,7 @@ Frontend OS is documentation-driven rather than prompt-driven.
 ## Law #1
 
 No implementation begins until a Design Analysis Report exists.
+
+## Law #2
+
+No interaction is implemented until an Interaction Specification exists.
