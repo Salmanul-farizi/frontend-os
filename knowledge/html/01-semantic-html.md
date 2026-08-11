@@ -1,0 +1,10 @@
+- Use semantic HTML.
+- Never use div when a semantic element exists.
+- One H1 per page.
+- Buttons for actions.
+- Links for navigation.
+- Images require meaningful alt text.
+- Form inputs must have associated labels.
+- Use main, header, footer, article, and section appropriately.
+- Avoid skip in heading levels (e.g. H2 directly to H4).
+- Use lists (ul, ol, dl) for list content.
