@@ -37,3 +37,7 @@ No implementation begins before Design Analysis and Interaction Analysis are com
 Every stage produces a document consumed by the next stage.
 
 Frontend OS is documentation-driven rather than prompt-driven.
+
+## Law #1
+
+No implementation begins until a Design Analysis Report exists.
