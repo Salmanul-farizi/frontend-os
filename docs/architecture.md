@@ -1,9 +1,5 @@
 # Frontend OS
 
-Input
-
-↓
-
 Project Intake
 
 ↓
@@ -12,11 +8,15 @@ Design Analysis
 
 ↓
 
-Interaction Analysis
+Experience Analysis
 
 ↓
 
-Engineering Planning
+Engineering Specification
+
+↓
+
+Frontend Architecture
 
 ↓
 
@@ -24,11 +24,11 @@ Implementation
 
 ↓
 
-Review
+Reviews
 
 ↓
 
-Production Output
+Production
 
 Every project follows this lifecycle.
 
