@@ -15,10 +15,19 @@ Engineering Specification
 Engineering Plan
         │
         ▼
-Implementation
+Implementation Plan
         │
         ▼
-Reviews
+HTML Engineer
+CSS Engineer
+JavaScript Engineer
+Motion Engineer
+        │
+        ▼
+Integration
+        │
+        ▼
+QA Review
         │
         ▼
 Production
@@ -42,3 +51,7 @@ No interaction is implemented until an Interaction Specification exists.
 ## Law #4
 
 No implementation role may begin until an Engineering Plan has been approved.
+
+## Law #5
+
+No implementation role may begin until an approved Implementation Plan exists.
