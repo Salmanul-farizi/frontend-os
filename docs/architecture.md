@@ -55,3 +55,7 @@ No implementation role may begin until an Engineering Plan has been approved.
 ## Law #5
 
 No implementation role may begin until an approved Implementation Plan exists.
+
+## Law #6
+
+Every implementation task must produce a complete production-ready component. Partial implementations are not accepted.
