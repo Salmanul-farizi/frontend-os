@@ -1,33 +1,26 @@
 # Frontend OS
 
 Project Intake
-
-↓
-
+        │
+        ▼
 Design Analysis
-
-↓
-
+        │
+        ▼
 Experience Analysis
-
-↓
-
+        │
+        ▼
 Engineering Specification
-
-↓
-
-Frontend Architecture
-
-↓
-
+        │
+        ▼
+Engineering Plan
+        │
+        ▼
 Implementation
-
-↓
-
+        │
+        ▼
 Reviews
-
-↓
-
+        │
+        ▼
 Production
 
 Every project follows this lifecycle.
@@ -45,3 +38,7 @@ No implementation begins until a Design Analysis Report exists.
 ## Law #2
 
 No interaction is implemented until an Interaction Specification exists.
+
+## Law #4
+
+No implementation role may begin until an Engineering Plan has been approved.
