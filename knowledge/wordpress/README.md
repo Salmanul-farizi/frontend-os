@@ -1,19 +1,14 @@
-# WordPress Knowledge Domain
+# WordPress Domain
 
 ## Purpose
-To standardize the implementation of Frontend OS codebases into WordPress CMS environments.
+This directory contains standards, best practices, and guidelines for WordPress theme and plugin development in Frontend OS projects.
 
-## Scope
-Covers theme structure, PHP/template integration, and specific WordPress quirks.
+## Contents
+- [WordPress Standards](01-wordpress-standards.md): Core principles, rules, and best practices for secure, performant, and maintainable WordPress development.
 
-## What Belongs Here
-- Advanced Custom Fields (ACF) integration strategies
-- Enqueueing scripts and styles
-- Block theme/Classic theme boundaries
-- WP-specific security in the frontend
+## Related Knowledge
+- [Data Fetching Standards](../data-fetching/README.md)
+- [Performance Standards](../performance/README.md)
 
-## What Does NOT Belong Here
-- Pure frontend logic not tied to WP (see HTML/CSS/JS)
-
-## Relationships
-- Acts as the integration layer for the core frontend domains.
+## Version History
+- v1.0 - Initial Creation - 2026-08-13

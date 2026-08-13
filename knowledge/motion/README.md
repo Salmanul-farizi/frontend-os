@@ -1,21 +1,14 @@
-# Motion Knowledge Domain
+# Motion Domain
 
 ## Purpose
-To define the standards for animation, timing, easing, and visual feedback.
+This directory contains standards, best practices, and guidelines for implementing motion and animations in Frontend OS projects.
 
-## Scope
-Covers GSAP, CSS animations, and interaction orchestration.
+## Contents
+- [Motion Standards](01-motion-standards.md): Core principles, rules, and best practices for creating purposeful, performant, and accessible motion.
 
-## What Belongs Here
-- Easing standards and duration curves
-- GSAP Timeline organization
-- ScrollTrigger best practices
-- CSS transition rules
+## Related Knowledge
+- [CSS Standards](../css/README.md)
+- [Accessibility Standards](../accessibility/README.md)
 
-## What Does NOT Belong Here
-- General JavaScript business logic (see JavaScript)
-- The high-level concept of the interaction (see Interaction Patterns)
-
-## Relationships
-- Implements the specs defined in **Interaction Patterns**.
-- Cross-references **Performance** to ensure smooth frame rates.
+## Version History
+- v1.0 - Initial Creation - 2026-08-13

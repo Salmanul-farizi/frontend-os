@@ -1,19 +1,14 @@
-# Performance Knowledge Domain
+# Performance Domain
 
 ## Purpose
-To guarantee fast load times, smooth rendering, and efficient asset delivery.
+This directory contains standards, best practices, and guidelines for optimizing web performance in Frontend OS projects.
 
-## Scope
-Covers Core Web Vitals, asset optimization, and browser rendering efficiency.
+## Contents
+- [Performance Standards](01-performance-standards.md): Core principles, rules, and best practices for achieving excellent Core Web Vitals and user experience.
 
-## What Belongs Here
-- Image and video compression rules
-- Font loading strategies
-- Critical CSS implementation
-- Lazy loading and script deferral
+## Related Knowledge
+- [CSS Standards](../css/README.md)
+- [JavaScript Standards](../javascript/README.md)
 
-## What Does NOT Belong Here
-- Backend server optimization (outside Frontend OS scope)
-
-## Relationships
-- Touches every domain, particularly **Motion** and **CSS**.
+## Version History
+- v1.0 - Initial Creation - 2026-08-13

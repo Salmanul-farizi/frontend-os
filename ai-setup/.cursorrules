@@ -1,0 +1,15 @@
+# Frontend OS Cursor Rules
+
+This repository uses Frontend OS, an engineering knowledge system designed to make AI coding assistants behave like experienced frontend engineers.
+
+When working in this repository or a project that uses Frontend OS, you must adhere to the following rules:
+
+1. **Read Before Writing**: Before generating any HTML, CSS, or JavaScript, you must read the relevant knowledge standards in `knowledge/`. For example, if asked to style a component, you must read `knowledge/css/01-css-standards.md` first.
+2. **Follow the Workflows**: Do not skip steps. If asked to analyze a design, follow the process defined in `workflows/design-analysis/`. Do not generate implementation code until the engineering planning phase is complete.
+3. **Use the Patterns**: If you encounter a common problem (e.g., responsive grid, accordion, modal, sticky header), check the `patterns/` directory. You must use the established pattern rather than inventing a new solution.
+4. **Assume the Role**: When assigned a task, assume the persona defined in the `roles/` directory. If you are acting as the `HTML Engineer`, you must follow the responsibilities and checklist defined in `roles/html-engineer/`.
+5. **No AI Bad Habits**: Review `knowledge/anti-patterns/01-anti-patterns.md`. Do not hallucinate utility classes (e.g., Tailwind) unless explicitly told to. Do not use generic class names like `.wrapper` or `.box`. Do not over-nest elements.
+6. **Accessibility is Non-Negotiable**: Every component must pass the rules defined in `knowledge/accessibility/01-accessibility-standards.md` and the `checklists/accessibility-checklist.md`.
+7. **Verify Against Checklists**: Before declaring a task complete, you must run through the appropriate checklist in the `checklists/` directory and explicitly confirm in your output that each item passes.
+
+To initialize your context, start by reading `docs/architecture.md`.
