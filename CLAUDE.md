@@ -75,3 +75,15 @@ State which checklist items passed and flag any that require attention.
 - ✅ Always use CSS custom properties from `knowledge/design-tokens/01-design-tokens.md`.
 - ✅ Always write mobile-first CSS with `min-width` media queries.
 - ✅ Always associate `<label>` with every `<input>` using `for` and `id`.
+
+---
+
+## Project Intake: Grill-Me Protocol
+
+Before starting any new project or any section with interactivity, you must run the Project Grill-Me intake questionnaire defined in:
+
+```
+workflows/project-intake/grill-me.md
+```
+
+Ask questions one at a time. Collect all answers. Output a Project Brief Summary and confirm with the developer before proceeding. Never skip this step.

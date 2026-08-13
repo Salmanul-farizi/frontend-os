@@ -97,3 +97,17 @@ node scripts/generate-component.js <ComponentName>
 ```
 
 This will create `src/components/<component-name>/` with pre-structured HTML, CSS, and JS files following Frontend OS naming conventions.
+
+---
+
+## Project Intake: Grill-Me Protocol
+
+Before starting any new project or any section with interactivity, you must run the Project Grill-Me intake questionnaire defined in:
+
+```
+workflows/project-intake/grill-me.md
+```
+
+Ask the questions one at a time. Collect all answers. Output a Project Brief Summary. Confirm with the developer before proceeding.
+
+**Never skip this step.** Missing requirements discovered during implementation cost 5x more to fix than asking upfront.
